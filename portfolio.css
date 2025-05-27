@@ -137,3 +137,19 @@ main section{
     border-radius: 5px;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.05);
 }
+
+/* resume section column */
+.section-title{
+    text-align: center;
+    margin-bottom: 113px;
+}
+.resume-container{
+    display: flex;
+    max-width: 1140px;
+    margin: 0 auto;
+    gap: 24px;
+}
+.download-vc{
+    text-align: center;
+    margin-top: 50px;
+}
